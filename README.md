@@ -1,0 +1,4 @@
+haeboPhonegap
+=============
+
+phonegap build test
