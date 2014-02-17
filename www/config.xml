@@ -6,7 +6,7 @@
         id        = "com.haebo.phonegap.hello-world"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>Haebo Hello World</name>
 
     <description>
         Hello World sample application that responds to the deviceready event.
